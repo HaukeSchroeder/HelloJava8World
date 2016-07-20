@@ -3,10 +3,10 @@ package java_8_class_2;
 import java.util.function.Function;
 
 /**
- * Created by Hauke Schröder on 19.07.16.
+ * Created by Hauke Schröder on 20.07.16.
  *
  * Example code for learning purposes referencing the explanation from:
- * http://blog.hs85.de/2016/07/20/java-8-functional-interfaces/
+ * http://blog.hs85.de/2016/07/20/java-8-lambdas-closures/
  *
  * Code based uppon: http://bruceeckel.github.io/2015/10/17/are-java-8-lambdas-closures/
  *
